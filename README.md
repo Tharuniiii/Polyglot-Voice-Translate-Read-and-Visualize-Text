@@ -56,6 +56,7 @@ wordcloud – generate word clouds
 
 matplotlib – visualization
 
+
 ▶️ Usage
 
 Run the app locally:
@@ -85,6 +86,9 @@ polyglot-voice/
 ├─ README.md             # Documentation
 └─ images/               # Screenshots & visuals (optional)
 ```
+# Demo
+<img width="1828" height="825" alt="Screenshot 2025-09-24 195738" src="https://github.com/user-attachments/assets/77ff4658-1823-4b55-a6d8-f17a273b0305" />
+
 🌟 Future Improvements
 
 Add downloadable audio files of translations.
